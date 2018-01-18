@@ -1,0 +1,2 @@
+[aws]
+54-194-68-44 ansible_ssh_user = 'ubuntu'
